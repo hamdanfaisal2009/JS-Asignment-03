@@ -4,6 +4,7 @@ for (var i = 1; i <= 10; i++) {
     console.log(i);   
 }
 
+
 console.log("Printing 1 to 10 num complete.");
 
 for (var i = 10; i >= 1; i--) {
